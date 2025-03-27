@@ -2,8 +2,5 @@
 title: "About"
 ---
 
-About this site
+This site is under construction (not actively).
 
-```{r}
-1 + 1
-```
